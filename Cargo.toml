@@ -1,0 +1,8 @@
+[package]
+name = "rustlife"
+version = "0.1.0"
+authors = ["kota.kaneko <kota.kaneko@livesense.co.jp>"]
+
+[dependencies]
+
+rand = "*"
